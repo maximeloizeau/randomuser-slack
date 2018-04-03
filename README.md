@@ -1,4 +1,4 @@
-## Quick slackbot to pick a random user from your Slack team.
+## Quick slackbot to pick a random user from your Slack team
 First experiments with slackbots and AWS lambda
 
 
